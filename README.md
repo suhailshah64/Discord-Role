@@ -19,7 +19,7 @@
 |-------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Verified Creator  | Content Creators with 50k+ followers or verified presence.                                                                                                                |
 | Boosted Legends   | Members who [boost](https://support.discord.com/hc/en-us/articles/360028038352-Server-Boosting-) the server and unlock exclusive perks.                                   |
-| Tyramite Sponsor  | Channel members from YouTube. [Join Sponsor Gang](https://www.youtube.com/channel/@TyramiteZoneOfficial/join)!                                                              |
+| Tyramite Sponsor  | Channel members from YouTube. [Join Sponsor Gang](https://www.youtube.com/channel/UCjinAPkEEoDdaJ3_Fo3rQ4Q/join)!                                                              |
 | Supporter         | Members who support the server financially or via regular help.                                                                                                           |
 | Bot Developer     | Created useful bots that help the server.                                                                                                                                |
 | Graphic Designer  | GFX/VFX artists who contribute to branding & visuals.                                                                                                                     |

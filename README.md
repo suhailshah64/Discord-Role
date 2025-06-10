@@ -43,4 +43,4 @@
 | Level  90+  | Access to exclusive pre-release content, games & testing.                  |
 | Level 100+ | Top Fan Role – Show off in Hall of Fame!                                    |
 
-> **Note**: Roles based on activity using MEE6 or Arcane Bot. Spam messages won't be counted.
+> **Note**: Roles based on activity using MEE6 or Arcane Bot. Spam messages won't be counted. 

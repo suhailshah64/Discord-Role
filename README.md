@@ -1,6 +1,6 @@
 ![tyramite](https://github.com/user-attachments/assets/0c238135-001e-4e05-9e31-5c2986975651)   
  <div align="center"> 
-<h1>Discord Roles - TyramiteZone</h1> 
+<h1>Discord Roles - Team Tyra</h1> 
 </div>
 
 <h3>Staff Roles</h3>

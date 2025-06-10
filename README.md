@@ -26,7 +26,7 @@
 | Music Artist      | Talented singers, rappers, or musicians active in our [community](https://discord.gg/5euFaYBXTp).                                                                                                          |
 | Early Access      | Role for trusted members who get beta features and game trials first.                                                                                                     |
 | Verified Female   | Given after voice verification for genuine female users.                                                                                                                  |
-| Legacy Member     | Given to members who’ve been with TyrAmiteZone for 6+ months.                                                                                                             |
+| Legacy Member     | Given to members who’ve been with TyramiteZone for 6+ months.                                                                                                             |
 
 <h3>Level Roles</h3>
 
@@ -39,7 +39,7 @@
 | Level  50+  | Access to Game Nights & DJ Music Control.                                  |
 | Level  60+  | Can set AFK & join premium lounge.                                         |
 | Level  70+  | Send files, images & get pinned badge.                                     |
-| Level  80+  | Monthly voice call with TyrAmite 💯                                        |
+| Level  80+  | Monthly voice call with Tyramite                                           |
 | Level  90+  | Access to exclusive pre-release content, games & testing.                  |
 | Level 100+ | Top Fan Role – Show off in Hall of Fame!                                    |
 
